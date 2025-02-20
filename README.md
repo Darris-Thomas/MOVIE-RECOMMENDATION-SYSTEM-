@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation System
+# *Netflix - Movie Recommendation System
 ## Overview
 
 This project is a Movie Recommendation System built using Python and Jupyter Notebook. It provides two types of recommendations:
